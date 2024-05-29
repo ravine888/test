@@ -31,4 +31,4 @@ jobs:
         with:
           project: "ravine888-test-24"
           entrypoint: "fresh-project/main.ts"
-          root: ""
+          root: "."
