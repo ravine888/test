@@ -29,6 +29,6 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "ravine888-test-24"
+          project: "ravine888-test-29"
           entrypoint: "main.ts"
-          root: ""
+          root: "."
